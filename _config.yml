@@ -1,0 +1,28 @@
+name: Bourbon Connoisseur Association
+favicon: null
+layout_spectrum: 0.34984950348734856
+typography_spectrum: 0.59108841791749
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.26344794034957886
+  lightness: 0.03978522983379662
+  saturation: 0.29980929172597826
+  rhythmicContrast: 0.4894611551426351
+purpose: []
