@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bourbon Connoisseur Association]]></title>
         <description><![CDATA[Bourbon Connoisseur Association]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bourbon-connoisseur-association/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 14:59:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 19:58:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bourbon-connoisseur-association/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2506f15-826f-492c-b198-72caa71161ea.jpg">]]></description>
-            <link>undefinedbourbon/index.html</link>
+            <link>https://thegrid.ai/bourbon-connoisseur-association/bourbon/index.html</link>
             <guid isPermaLink="false">98a2d668-0d36-4be2-a5fa-f0380b3e0fc0</guid>
-            <pubDate>Mon, 04 Apr 2016 14:59:11 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 19:58:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
