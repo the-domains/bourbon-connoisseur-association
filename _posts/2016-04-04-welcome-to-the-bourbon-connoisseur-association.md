@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Welcome to the\_Bourbon Connoisseur Association"
-datePublished: '2016-04-07T19:24:25.440Z'
-dateModified: '2016-04-04T20:09:11.206Z'
+datePublished: '2016-04-07T19:27:08.415Z'
+dateModified: '2016-04-07T19:24:33.929Z'
 title: The Bourbon Connoisseur Association
 author: []
 sourcePath: _posts/2016-04-04-welcome-to-the-bourbon-connoisseur-association.md
