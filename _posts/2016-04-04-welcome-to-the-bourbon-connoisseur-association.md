@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "Welcome to the\_Bourbon Connoisseur Association"
-datePublished: '2016-04-07T19:27:08.415Z'
-dateModified: '2016-04-07T19:24:33.929Z'
-title: The Bourbon Connoisseur Association
+description: Visit us on Facebook
+datePublished: '2016-04-07T19:31:19.420Z'
+dateModified: '2016-04-07T19:29:32.179Z'
+title: Virtual Lounge
 author: []
 sourcePath: _posts/2016-04-04-welcome-to-the-bourbon-connoisseur-association.md
 published: true
@@ -24,4 +24,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52004c88-5c3b-42e8-813c-1a774a049ddc.jpg)
 
-Welcome to the Bourbon Connoisseur Association
+[Visit us on Facebook][0]
+
+[0]: https://www.facebook.com/bourbonconnoisseurassociation/
