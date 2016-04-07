@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Bourbon Connoisseur Association]]></title>
-        <description><![CDATA[Bourbon Connoisseur Association]]></description>
+        <title><![CDATA[BCA]]></title>
+        <description><![CDATA[BCA]]></description>
         <link>https://thegrid.ai/bourbon-connoisseur-association/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 00:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 19:24:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bourbon-connoisseur-association/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Bourbon Connoisseur Association]]></title>
+            <description><![CDATA[<article><h1>The Bourbon Connoisseur Association</h1><p>Welcome to the Bourbon Connoisseur Association</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52004c88-5c3b-42e8-813c-1a774a049ddc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bourbon-connoisseur-association/welcome-to-the-bourbon-connoisseur-association/index.html</link>
+            <guid isPermaLink="false">c9035b12-fcec-4266-9d86-ae2fb457b2b1</guid>
+            <pubDate>Thu, 07 Apr 2016 19:24:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76935309-6cb6-4e5d-bf88-25478be49286.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/bourbon-connoisseur-association/131a3cd1-4908-4010-8a9b-ae64222c44d5/index.html</link>
             <guid isPermaLink="false">131a3cd1-4908-4010-8a9b-ae64222c44d5</guid>
             <pubDate>Mon, 04 Apr 2016 20:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52004c88-5c3b-42e8-813c-1a774a049ddc.jpg">]]></description>
-            <link>https://thegrid.ai/bourbon-connoisseur-association/welcome-to-the-bourbon-connoisseur-association/index.html</link>
-            <guid isPermaLink="false">c9035b12-fcec-4266-9d86-ae2fb457b2b1</guid>
-            <pubDate>Mon, 04 Apr 2016 20:07:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
