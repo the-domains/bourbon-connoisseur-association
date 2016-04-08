@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Visit us on Facebook
-datePublished: '2016-04-07T19:32:24.413Z'
-dateModified: '2016-04-07T19:31:42.688Z'
+datePublished: '2016-04-08T01:01:26.713Z'
+dateModified: '2016-04-07T19:36:15.784Z'
 title: Virtual Lounge
 author: []
 sourcePath: _posts/2016-04-04-welcome-to-the-bourbon-connoisseur-association.md
